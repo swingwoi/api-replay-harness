@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.ts linguist-language=TypeScript
+*.jsonl linguist-language=JSON

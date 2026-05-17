@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 // record.ts — issue a list of requests against a base URL and append each
 // exchange (request + response) to a JSONL file.
 //

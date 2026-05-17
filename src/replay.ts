@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 // replay.ts — replay a recorded JSONL of exchanges against a different base URL
 // and report only the diffs that matter.
 //
